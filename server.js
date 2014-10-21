@@ -1,8 +1,8 @@
 'use strict';
 
 var express = require('express'),
-		app = express(),
-		mongoose = require('mongoose');
+	app = express(),
+	mongoose = require('mongoose');
 
 
 
